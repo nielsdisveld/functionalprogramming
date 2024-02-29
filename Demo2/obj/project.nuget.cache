@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ouxiPJUrShXnMOjux0x+dHLlAVRBOdIf3hBgxVLsTiJHK9CX/UgmU6pXc7lNHEq0iVdzId52tigz17nUmSGwmA==",
+  "success": true,
+  "projectFilePath": "/Users/nielsdisveld/Projects/FP/Demo/Demo.fsproj",
+  "expectedPackageFiles": [
+    "/Users/nielsdisveld/.nuget/packages/fsharp.core/8.0.100/fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
